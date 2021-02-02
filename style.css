@@ -1,0 +1,36 @@
+*{
+    margin: 0 !important;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.height {
+    height: 90vh;
+    background-color: #f6f6f6;
+}
+
+.output {
+    background-color: #f6f6f6;
+    height: 82vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    flex-direction: column;
+}
+
+.btn {
+    font-weight: 500;
+}
+
+.main-form {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* @media(max-width: 767.9px){
+  
+} */
